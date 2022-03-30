@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+.gitattributes
+
+temp/
+
+*.mp3
+*.mp4
+*.wav
